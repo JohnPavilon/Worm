@@ -42,16 +42,7 @@ redactado en el libro antiormente mencionado.
 
 # 2. Ejecución del programa
 
-Para proceder a ejecutar el programa, se requerirá primeramente que se descargue la carpeta Worm/ adjunto a su contenido. Además de lo anterior, deberá tener instalado las bibliotecas Numpy, Matplotlib y PyQt5, en caso de no tenerlos instalados consulte los siguientes enlaces: 
-<br />
-<div align="center">
-    https://sites.google.com/site/clasesdesde0/python-plot (Instalación de Matplotlib y Numpy)
-</div>
-<br />
-<div align="center">
-    https://pythones.net/pyqt-instalacion-y-codigo-tutorial/ (Instalación de PyQt5)
-</div>
-<br />
+Para proceder a ejecutar el programa, se requerirá primeramente que se descargue la carpeta Worm/ adjunto a su contenido.
 
 Posteriormente, se ejecutará el archivo gusano.py localizado en Worm/, este archivo se puede ejecutar dentro de una terminal (esto se puede realizar utilizando el comando "python gusano.py", asegúrate de que la terminal se encuentre en la carpeta donde se ubica "gusano.py" usando el comando cd, de lo contrario te marcará el error de archivo no encontrado) o ejecutando el script con algún IDE (como lo es el caso del programa Anaconda, Spider o Visual Studio Core disponible para Windows, Linux y Mac, puedes consultar el método de instalación en el siguiente enlace: https://docs.anaconda.com/anaconda/install/index.html)
 
@@ -81,10 +72,6 @@ Cabe resaltar que se trata de un programa sencillo, por lo que al momento de eje
 <br />
 <p align="center">
   Comprobamos que efectivamente está el archivo "gusano.py" con el comando "dir"
-</p>
-<br />
-<p align="center">
-  <img src="https://i.postimg.cc/MHG7mdRJ/imagen-2022-03-10-231638.png"</img>
 </p>
 <br />
 <p align="center">
